@@ -18,3 +18,19 @@ A Telegram security and moderation bot with automation features, built using **P
 - TgCrypto
 
 ## 📂 Project Structure
+## 🔑 Environment Variables
+Set these in **Heroku Config Vars**:
+- `API_ID`
+- `API_HASH`
+- `BOT_TOKEN`
+
+## 🚀 Deploy to Heroku
+Click the button below to deploy directly:
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sviru0048-netizen/security-bot)
+
+## 👤 Author
+Developed by **KRISH X STAR**
+
+## 📜 License
+Free to use and modify for personal projects.
