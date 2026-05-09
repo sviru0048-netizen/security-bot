@@ -7,6 +7,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+WELCOME+TO+KRISH+STAR+MUSIC+REPO;ㅤ+POWERFUL+TELEGRAM+MUSIC+BOT;🔥+FAST+AND+SMOOTH+STREAMING)](https://github.com/)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sviru0048-netizen/KRISH_X_STAR_VIP_MUSIC_REPO/ALONE/file_00000000fdcc7208b69fcfacd439c437.png">
+</p>
+
 ---
 
 ## 🚀 Features
