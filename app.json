@@ -1,0 +1,25 @@
+{
+  "name": "Security Bot - KRISH X STAR",
+  "description": "A Telegram security and moderation bot with automation features, built using Pyrogram.",
+  "repository": "https://github.com/sviru0048-netizen/security-bot",
+  "keywords": ["telegram", "bot", "pyrogram", "security", "moderation"],
+  "env": {
+    "API_ID": {
+      "description": "Your Telegram API ID",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Your Telegram API HASH",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Your Telegram Bot Token",
+      "required": true
+    }
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
