@@ -17,9 +17,11 @@ app.add_handler(filters.group & filters.text, handlers.delete_nsfw)
 app.add_handler(filters.group & filters.sticker, handlers.delete_sticker)
 app.add_handler(filters.group, handlers.flood_control)
 app.add_handler(filters.group, handlers.monitor_bans)
+app.add_handler(filters.group & filters.command("tagall"), handlers.tag_all)
 
 print("✅ Security Bot is running...")
 
 if __name__ == "__main__":
-    # Run bot with proper event loop
-    asyncio.run(app.run())
+    asyncio.run(app.start())
+    asyncio.get_event_loop().run_until_complete(app.idle())
+    asyncio.run(app.stop())
