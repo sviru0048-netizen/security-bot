@@ -1,5 +1,5 @@
-<!-- 🔥 KRISH STAR PREMIUM README --><h1 align="center">👑 KRISH STAR MUSIC BOT 👑</h1><p align="center">
-<!-- 🔥 KRISH STAR PREMIUM README --><h1 align="center">👑 KRISH STAR MUSIC BOT 👑</h1><p align="center">
+<!-- 🔥 KRISH STAR PREMIUM README --><h1 align="center">👑 KRISH STAR SECURITY BOT 👑</h1><p align="center">
+<!-- 🔥 KRISH STAR PREMIUM README --><h1 align="center">👑 KRISH STAR SECURITY BOT 👑</h1><p align="center">
   <b>🎶 Ultimate Telegram Bot | ⚡ Fast | 🚀 Powerful | 💎 VIP</b>
 </p><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+KRISH+STAR+;Best++Bot+for+Telegram;Made+with+❤️+by+KRISH+STAR" />
