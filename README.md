@@ -1,3 +1,4 @@
+
 # Security Bot - KRISH X STAR
 
 A Telegram security and moderation bot with automation features, built using **Pyrogram**.
