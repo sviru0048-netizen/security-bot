@@ -5,6 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=25&center=true&vCenter=true&width=600&lines=Welcome+to+KRISH+STAR+;Best++Bot+for+Telegram;Made+with+❤️+by+KRISH+STAR" />
 </p>---
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=ㅤ+WELCOME+TO+KRISH+STAR+MUSIC+REPO;ㅤ+POWERFUL+TELEGRAM+MUSIC+BOT;🔥+FAST+AND+SMOOTH+STREAMING)](https://github.com/)
+
 ---
 
 ## 🚀 Features
